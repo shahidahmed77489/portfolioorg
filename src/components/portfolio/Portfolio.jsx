@@ -1,6 +1,6 @@
 import "./portfolio.css";
 
-import IMG1 from "../../assets/Youtube.png";
+import IMG1 from "../../assets/moviesApp.jpg";
 import IMG2 from "../../assets/moviesApp.jpg";
 import IMG3 from "../../assets/WeatherApp.jpg";
 import IMG4 from "../../assets/analog watch.jpg";
