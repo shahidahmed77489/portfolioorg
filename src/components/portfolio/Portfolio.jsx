@@ -1,6 +1,6 @@
 import "./portfolio.css";
 
-import IMG1 from "../../assets/moviesApp.jpg";
+import IMG1 from "../../assets/utubeClone.jpg";
 import IMG2 from "../../assets/moviesApp.jpg";
 import IMG3 from "../../assets/WeatherApp.jpg";
 import IMG4 from "../../assets/analog watch.jpg";
@@ -17,8 +17,8 @@ const Portfolio = () => {
       description:
         "Integrate live chat for real-time interaction, debouncing for smoother UX, caching for optimized performance, and nested comments.",
       technologies: "React.js | JavaScript | Redux toolkit | Tailwind",
-      link: "https://youtube-clone-wine-two.vercel.app/",
-      github: "https://github.com/wasimakram97091/youtube-clone",
+      link: "https://youtubeclone-d5gb.onrender.com",
+      github: "https://github.com/shahidahmed77489/youtubeclone",
     },
     {
       id: 2,
